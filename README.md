@@ -21,5 +21,5 @@ Machine Learning and Natural Language Processing techniques.
 Open the notebook and run all cells sequentially.
 
 ## Colab Link
-(Add your Colab share link here)
+( Colab  link here)
 [Open in Google Colab](https://colab.research.google.com/drive/1qqKUvhf-hDrFTb-SQdbBncr6IsdwJWtn?usp=sharing)
